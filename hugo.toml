@@ -1,9 +1,8 @@
 baseURL = 'https://datapaganism.github.io/cooking/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Cooking'
 
 [params]
-  favicon = "/favicon.svg"
-  stylesheet = "/style.css"
+  stylesheet ="style.css"
   indexarticles = 50
   taglist = true
