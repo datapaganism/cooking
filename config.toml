@@ -3,6 +3,6 @@ languageCode = 'en-us'
 title = 'Cooking'
 
 [params]
-  stylesheet ="style.css"
+  stylesheet ="/style.css"
   indexarticles = 50
   taglist = true
