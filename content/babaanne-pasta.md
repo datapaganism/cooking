@@ -1,6 +1,6 @@
 ---
 title: Babaanne (Grandma's) Pasta
-tags: ['sauces', 'Turkish']
+tags: ['sauces', 'turkish']
 date: 2023-05-20
 #author:
 ---
