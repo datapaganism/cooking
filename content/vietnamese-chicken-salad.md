@@ -2,7 +2,7 @@
 title: Vietnamese Chicken Salad
 tags: ['salad', 'vietnamese', 'chicken']
 date: 2024-02-13
-#author:
+author: https://www.yummly.co.uk/recipe/Vietnamese-Chicken-Salad-460751?prm-v1, https://www.williams-sonoma.com/recipe/vietnamese-chicken-salad.html, https://web.archive.org/web/20151220201937/https://www.williams-sonoma.com/recipe/vietnamese-chicken-salad.html
 ---
 - ⏲️ Prep time: 15 min
 - 🍳 Cook time: 30 mins
