@@ -10,7 +10,8 @@ date: 2025-01-05
 
 ## Ingredients
 - 500g beef steak (frozen)
-- 3 Tbsp light brown sugar
+- 3 Tbsp soy sauce
+- 2 Tbsp light brown sugar
 - 1 Tbsp honey
 - 2 Tbsp mirin
 - 1 Tbsp sesame oil
