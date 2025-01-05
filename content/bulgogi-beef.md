@@ -16,10 +16,11 @@ date: 2025-01-05
 - 2 Tbsp mirin
 - 1 Tbsp sesame oil
 - 2 Tbsp minced garlic
-- 1 tsp ground black pepper
+- 1/2 tsp ground black pepper
+- 1/2 tsp salt
 - 2 tsp toasted seasame seeds
 - 2 chopped spring onions
-- 1 Tbsp of kiwi (pureed)
+- 1/2 a kiwi (put through garlic mincer)
 
 ## Directions
 1. Create a marinade by mixing all of the ingredients (apart from the beef)
