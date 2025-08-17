@@ -1,15 +1,15 @@
 ---
 title: Scotch Eggs
-tags: ['egg', 'scotland', 'pork']
+tags: ['egg', 'scotish', 'pork']
 date: 2025-08-17
-author: [this](https://www.joshuaweissman.com/recipes/perfect-scotch-egg-recipes-3-ways)
+author: www.joshuaweissman.com/recipes/perfect-scotch-egg-recipes-3-ways
 ---
 - ⏲️ Prep time: 10 min
-- 🍳 Cook time: 1 hour
+- 🍳 Cook time: 12 minutes
 - 🍽️ Servings: 4
 
 ## Ingredients
-  - 5 eggs ( 4 for scotching, 1 for egg washing)
+  - 6 eggs ( 4 for scotching, 2 for egg washing)
   - 400g sausage meat
   - 7g fresh chopped parsley
   - 3g finely chopped sage (optional)
@@ -21,6 +21,7 @@ author: [this](https://www.joshuaweissman.com/recipes/perfect-scotch-egg-recipes
   - 1 tsp Worcestershire sauce
   - 1/2 Tbsp salt
   - 1/4 tsp msg
+  - 1 tsp curry powder (for a different flavour)
   - 1 cup panko breadcrumbs
   - Small splash of water
   - 1 cup (150g) all-purpose flour
