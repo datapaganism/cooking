@@ -39,6 +39,5 @@ Garnish and Sides
 3. Add the beef, remaining coconut milk, chicken stock, fish, soy sauces, and the brown sugar, give it all a stir and coat the beef in the sauce.
 4. Pressure cook on high for 12 minutes.
 5. NPR for 20 minutes, or QR the pressure and simmer on low sauté for 20 minutes if you want a thicker sauce.
-6. Slowly add the the pasta water to the pan and mix in increments.
-7. Add the lime juice and stir it in.
-8. Ladle on a bed of rice, sprinkle fresh chili and peanuts and the remaining garnishes.
+6. Add the lime juice and stir it in.
+7. Ladle on a bed of rice, sprinkle fresh chili and peanuts and the remaining garnishes.
