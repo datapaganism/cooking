@@ -2,7 +2,7 @@
 title: Scotch Eggs
 tags: ['egg', 'scotland', 'pork']
 date: 2025-08-17
-author:[ https://www.dadcooksdinner.com/pressure-cooker-thai-panang-beef-curry/](https://www.joshuaweissman.com/recipes/perfect-scotch-egg-recipes-3-ways)
+author: [this](https://www.joshuaweissman.com/recipes/perfect-scotch-egg-recipes-3-ways)
 ---
 - ⏲️ Prep time: 10 min
 - 🍳 Cook time: 1 hour
