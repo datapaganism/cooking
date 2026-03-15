@@ -1,6 +1,6 @@
 ---
 title: Scotch Eggs
-tags: ['egg', 'scotish', 'pork']
+tags: ['egg', 'scottish', 'pork']
 date: 2025-08-17
 author: www.joshuaweissman.com/recipes/perfect-scotch-egg-recipes-3-ways
 ---
