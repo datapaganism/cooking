@@ -274,6 +274,21 @@ button#clear-search:hover {
 #tag_ukrainian:before { content: "🇺🇦" ; }
 #tag_vietnamese:before { content: "🇻🇳" ; }
 #tag_wine:before { content: "🍷" ; }
+#tag_chili:before { content: "🌶" ; }
+#tag_carrot:before { content: "🥕" ; }
+#tag_coffee:before { content: "☕" ; }
+#tag_egg:before { content: "🥚" ; }
+#tag_korean:before { content: "🇰🇷" ; }
+#tag_scottish:before { content: "🏴󠁧󠁢󠁳󠁣󠁴󠁿" ; }
+#tag_middle-east:before { content: "☪" ; }
+#tag_sauces:before { content: "🏺" ; }
+
+
+
+
+
+
+
 
 .cryptocontainer {
     display: flex ;
