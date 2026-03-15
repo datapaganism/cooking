@@ -1,8 +1,10 @@
 baseURL = 'https://datapaganism.github.io/cooking/'
 languageCode = 'en-us'
 title = 'Cooking'
+ignoreLogs = ['warning-goldmark-raw-html']
 
 [params]
   stylesheet ="/style.css"
   indexarticles = 50
   taglist = true
+ 
