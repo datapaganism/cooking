@@ -17,9 +17,9 @@ For the spice mix
 - 1 tsp brown sugar
 - ½ tsp cumin powder
 - ½ tsp smoked paprika powder
-- ½ tsp smoked garlic powder
-- ½ tsp smoked onion powder
-- ½ tsp smoked oregano
+- ½ tsp garlic powder
+- ½ tsp onion powder
+- ½ tsp oregano
 - 1/4 tsp red pepper flakes / chipotle flakes
 
 For the chili
