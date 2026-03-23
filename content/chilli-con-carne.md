@@ -11,7 +11,8 @@ date: 2026-03-15
 ## Ingredients
 
 For the spice mix
-- 1½ tbsp mild chili powder
+- 1 tbsp mild chili powder
+- 1 tsp cayenne pepper powder
 - 1 tsp salt
 - 1 tsp cocoa powder
 - 1 tsp brown sugar
